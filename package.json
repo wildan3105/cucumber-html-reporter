@@ -9,7 +9,6 @@
     "html report",
     "json to html"
   ],
-  "homepage": "https://github.com/wildan3105/cucumber-html-reporter#readme",
   "bugs": {
     "url": "https://github.com/wildan3105/cucumber-html-reporter/issues",
     "email": "g.kushang@gmail.com"
