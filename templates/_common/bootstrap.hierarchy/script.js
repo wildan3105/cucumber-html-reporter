@@ -13,7 +13,7 @@ $(document).ready(function () {
 
   let timestamp = $generated.text();
   $generated.text('Report generated ' + moment(timestamp).fromNow());
-  $generated.prop('title', new Date(timestamp).toISOString());
+  $generated.prop('title', new Date(timestamp).toLocaleTimeString());
 });
 
 $(document).ready(function () {
